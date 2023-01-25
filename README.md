@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Getting Started4
+=======
+# Getting Started3
+>>>>>>> 8dc3b13436ce04c1a22c11277b476a8aa9d49135
 
 Welcome to your new project.
 
